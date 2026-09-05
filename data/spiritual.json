@@ -1,0 +1,176 @@
+{
+  "verses": [
+    {
+      "id": "v1",
+      "surah": 2,
+      "ayah": 255,
+      "ref": "Al-Baqarah 2:255",
+      "arabic": "اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ ۚ لَا تَأْخُذُهُ سِنَةٌ وَلَا نَوْمٌ",
+      "en": "Allah — there is no deity except Him, the Ever-Living, the Sustainer of existence. Neither drowsiness overtakes Him nor sleep.",
+      "tr": "Allah — O'ndan başka hiçbir ilah yoktur; O, Hayy'dır, Kayyûm'dur. O'nu ne uyuklama tutar ne de uyku.",
+      "de": "Allah — es gibt keinen Gott außer Ihm, dem Lebendigen, dem Beständigen. Ihn überkommt weder Schlummer noch Schlaf.",
+      "fr": "Allah — il n'y a de divinité que Lui, le Vivant, Celui qui subsiste par Lui-même. Ni somnolence ni sommeil ne Le saisissent."
+    },
+    {
+      "id": "v2",
+      "surah": 94,
+      "ayah": 5,
+      "ref": "Ash-Sharh 94:5–6",
+      "arabic": "فَإِنَّ مَعَ الْعُسْرِ يُسْرًا ۝ إِنَّ مَعَ الْعُسْرِ يُسْرًا",
+      "en": "For indeed, with hardship comes ease. Indeed, with hardship comes ease.",
+      "tr": "Şüphesiz güçlükle beraber bir kolaylık vardır. Şüphesiz güçlükle beraber bir kolaylık vardır.",
+      "de": "Denn wahrlich, mit der Erschwernis kommt Erleichterung. Wahrlich, mit der Erschwernis kommt Erleichterung.",
+      "fr": "Certes, avec la difficulté vient la facilité. Certes, avec la difficulté vient la facilité."
+    },
+    {
+      "id": "v3",
+      "surah": 2,
+      "ayah": 286,
+      "ref": "Al-Baqarah 2:286",
+      "arabic": "لَا يُكَلِّفُ اللَّهُ نَفْسًا إِلَّا وُسْعَهَا",
+      "en": "Allah does not charge a soul except [with that within] its capacity.",
+      "tr": "Allah hiçbir kimseyi gücünün yetmediği bir şeyle yükümlü kılmaz.",
+      "de": "Allah erlegt keiner Seele mehr auf, als sie zu tragen vermag.",
+      "fr": "Allah n'impose à aucune âme une charge supérieure à sa capacité."
+    },
+    {
+      "id": "v4",
+      "surah": 13,
+      "ayah": 28,
+      "ref": "Ar-Ra'd 13:28",
+      "arabic": "أَلَا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ",
+      "en": "Unquestionably, by the remembrance of Allah hearts are assured.",
+      "tr": "Bilesiniz ki, kalpler ancak Allah'ı anmakla huzur bulur.",
+      "de": "Wahrlich, durch das Gedenken Allahs finden die Herzen Ruhe.",
+      "fr": "N'est-ce pas par l'évocation d'Allah que les cœurs se tranquillisent ?"
+    },
+    {
+      "id": "v5",
+      "surah": 3,
+      "ayah": 139,
+      "ref": "Ali 'Imran 3:139",
+      "arabic": "وَلَا تَهِنُوا وَلَا تَحْزَنُوا وَأَنتُمُ الْأَعْلَوْنَ إِن كُنتُم مُّؤْمِنِينَ",
+      "en": "So do not weaken and do not grieve, and you will be superior if you are [true] believers.",
+      "tr": "Gevşemeyin, üzülmeyin; eğer inanıyorsanız üstün olan sizsiniz.",
+      "de": "Lasst nicht nach und seid nicht traurig; ihr werdet die Oberhand haben, wenn ihr Gläubige seid.",
+      "fr": "Ne faiblissez pas et ne vous affligez pas alors que vous êtes les plus hauts si vous êtes croyants."
+    },
+    {
+      "id": "v6",
+      "surah": 39,
+      "ayah": 53,
+      "ref": "Az-Zumar 39:53",
+      "arabic": "قُلْ يَا عِبَادِيَ الَّذِينَ أَسْرَفُوا عَلَىٰ أَنفُسِهِمْ لَا تَقْنَطُوا مِن رَّحْمَةِ اللَّهِ",
+      "en": "Say, O My servants who have transgressed against themselves: do not despair of the mercy of Allah.",
+      "tr": "De ki: Ey kendilerine kötülük edip aşırı giden kullarım! Allah'ın rahmetinden ümit kesmeyin.",
+      "de": "Sprich: O Meine Diener, die ihr euch gegen euch selbst vergangen habt, verzweifelt nicht an der Barmherzigkeit Allahs.",
+      "fr": "Dis: Ô Mes serviteurs qui avez agi en excès contre vous-mêmes, ne désespérez pas de la miséricorde d'Allah."
+    },
+    {
+      "id": "v7",
+      "surah": 49,
+      "ayah": 13,
+      "ref": "Al-Hujurat 49:13",
+      "arabic": "إِنَّ أَكْرَمَكُمْ عِندَ اللَّهِ أَتْقَاكُمْ",
+      "en": "Indeed, the most noble of you in the sight of Allah is the most righteous of you.",
+      "tr": "Şüphesiz Allah katında en değerliniz, O'na karşı en çok saygı besleyeninizdir.",
+      "de": "Der Geehrteste von euch bei Allah ist der Gottesfürchtigste unter euch.",
+      "fr": "Le plus noble d'entre vous auprès d'Allah est le plus pieux."
+    },
+    {
+      "id": "v8",
+      "surah": 17,
+      "ayah": 82,
+      "ref": "Al-Isra 17:82",
+      "arabic": "وَنُنَزِّلُ مِنَ الْقُرْآنِ مَا هُوَ شِفَاءٌ وَرَحْمَةٌ لِّلْمُؤْمِنِينَ",
+      "en": "And We send down of the Qur'an that which is healing and mercy for the believers.",
+      "tr": "Biz Kur'an'dan müminler için şifa ve rahmet olanı indiriyoruz.",
+      "de": "Und Wir senden vom Koran herab, was Heilung und Barmherzigkeit für die Gläubigen ist.",
+      "fr": "Nous faisons descendre du Coran ce qui est guérison et miséricorde pour les croyants."
+    }
+  ],
+  "hadiths": [
+    {
+      "id": "h1",
+      "source": "Sahih al-Bukhari",
+      "en": "The most beloved of deeds to Allah is the prayer performed on time.",
+      "tr": "Allah'a en sevimli ameller, vaktinde kılınan namazdır.",
+      "de": "Die Allah am liebsten sind die Gebete, die zur rechten Zeit verrichtet werden.",
+      "fr": "Les œuvres les plus aimées d'Allah sont la prière accomplie à son heure."
+    },
+    {
+      "id": "h2",
+      "source": "Sahih Muslim",
+      "en": "Whoever believes in Allah and the Last Day should speak good or remain silent.",
+      "tr": "Kim Allah'a ve ahiret gününe inanıyorsa hayır söylesin veya sussun.",
+      "de": "Wer an Allah und den Jüngsten Tag glaubt, soll Gutes sagen oder schweigen.",
+      "fr": "Que celui qui croit en Allah et au Jour dernier dise du bien ou se taise."
+    },
+    {
+      "id": "h3",
+      "source": "Sunan at-Tirmidhi",
+      "en": "The strong believer is better and more beloved to Allah than the weak believer, while there is good in both.",
+      "tr": "Güçlü mümin, zayıf müminden Allah'a daha hayırlı ve daha sevimlidir; her ikisinde de hayır vardır.",
+      "de": "Der starke Gläubige ist Allah besser und lieber als der schwache Gläubige, und in beiden ist Gutes.",
+      "fr": "Le croyant fort est meilleur et plus aimé d'Allah que le croyant faible, et il y a du bien en chacun."
+    },
+    {
+      "id": "h4",
+      "source": "Sahih al-Bukhari",
+      "en": "Be in this world as if you were a stranger or a traveler along a path.",
+      "tr": "Dünyada bir yolcu veya gurbetçi gibi ol.",
+      "de": "Sei in dieser Welt wie ein Fremder oder ein Reisender.",
+      "fr": "Sois dans ce monde comme un étranger ou un voyageur de passage."
+    },
+    {
+      "id": "h5",
+      "source": "Sahih Muslim",
+      "en": "Allah does not look at your forms or wealth, but He looks at your hearts and deeds.",
+      "tr": "Allah sizin suretlerinize ve mallarınıza bakmaz; fakat kalplerinize ve amellerinize bakar.",
+      "de": "Allah schaut nicht auf eure Gestalten und euer Vermögen, sondern auf eure Herzen und Taten.",
+      "fr": "Allah ne regarde ni vos apparences ni vos biens, mais Il regarde vos cœurs et vos œuvres."
+    },
+    {
+      "id": "h6",
+      "source": "Sunan Ibn Majah",
+      "en": "Make things easy and do not make them difficult; give glad tidings and do not repel people.",
+      "tr": "Kolaylaştırın, zorlaştırmayın; müjdeleyin, nefret ettirmeyin.",
+      "de": "Erleichtert und erschwert nicht; verkündet frohe Botschaft und schreckt nicht ab.",
+      "fr": "Facilitez et ne compliquez pas; annoncez la bonne nouvelle et ne faites pas fuir."
+    }
+  ],
+  "quotes": [
+    {
+      "id": "q1",
+      "author": "Imam al-Ghazali",
+      "en": "Knowledge without action is vanity, and action without knowledge is insanity.",
+      "tr": "Amelsiz ilim kibirdir; ilimsiz amel deliliktir.",
+      "de": "Wissen ohne Handeln ist Eitelkeit, und Handeln ohne Wissen ist Wahnsinn.",
+      "fr": "La science sans action est vanité, et l'action sans science est folie."
+    },
+    {
+      "id": "q2",
+      "author": "Rumi",
+      "en": "What you seek is seeking you.",
+      "tr": "Aradığın seni arıyor.",
+      "de": "Was du suchst, sucht dich.",
+      "fr": "Ce que tu cherches te cherche aussi."
+    },
+    {
+      "id": "q3",
+      "author": "Ibn Ata Allah",
+      "en": "Nothing is difficult if you seek it through your Lord, and nothing is easy if you seek it through yourself.",
+      "tr": "Rabbinle talep ettiğin hiçbir şey zor değildir; kendi nefsinle talep ettiğin hiçbir şey kolay değildir.",
+      "de": "Nichts ist schwer, wenn du es durch deinen Herrn suchst; nichts ist leicht, wenn du es durch dich selbst suchst.",
+      "fr": "Rien n'est difficile si tu le cherches par ton Seigneur; rien n'est facile si tu le cherches par toi-même."
+    },
+    {
+      "id": "q4",
+      "author": "Imam ash-Shafi'i",
+      "en": "My heart is at ease knowing that what was meant for me will never miss me, and that what misses me was never meant for me.",
+      "tr": "Kalbe huzur veren şey şudur: Bana ait olan beni kaçırmaz; beni kaçıran da bana ait değildir.",
+      "de": "Mein Herz ist ruhig im Wissen, dass das für mich Bestimmte mich nie verfehlt, und was mich verfehlt, nie für mich bestimmt war.",
+      "fr": "Mon cœur est en paix sachant que ce qui m'était destiné ne me manquera jamais, et que ce qui me manque ne m'était pas destiné."
+    }
+  ]
+}

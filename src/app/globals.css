@@ -1,0 +1,73 @@
+export type CalculationMethodId =
+  | "MuslimWorldLeague"
+  | "Egyptian"
+  | "Karachi"
+  | "UmmAlQura"
+  | "NorthAmerica"
+  | "Turkey"
+  | "Dubai"
+  | "Kuwait"
+  | "Qatar"
+  | "Singapore";
+
+export type Madhhab = "standard" | "hanafi";
+export type ThemeMode = "dark" | "light" | "system";
+export type LocaleCode = "en" | "tr" | "de" | "fr";
+
+export type PrayerName =
+  | "fajr"
+  | "sunrise"
+  | "dhuhr"
+  | "asr"
+  | "maghrib"
+  | "isha";
+
+export interface City {
+  id: string;
+  name: Record<LocaleCode, string>;
+  country: Record<LocaleCode, string>;
+  lat: number;
+  lng: number;
+  timezone: string;
+}
+
+export interface UserLocation {
+  lat: number;
+  lng: number;
+  label: string;
+  cityId?: string;
+  timezone?: string;
+}
+
+export interface AppPrefs {
+  location: UserLocation;
+  method: CalculationMethodId;
+  madhhab: Madhhab;
+  locale: LocaleCode;
+  theme: ThemeMode;
+  notifications: boolean;
+  notifyMinutes: number;
+}
+
+export interface PrayerTimeRow {
+  name: PrayerName;
+  date: Date;
+}
+
+export const DEFAULT_PREFS: AppPrefs = {
+  location: {
+    lat: 41.0082,
+    lng: 28.9784,
+    label: "Istanbul",
+    cityId: "istanbul",
+    timezone: "Europe/Istanbul",
+  },
+  method: "Turkey",
+  madhhab: "hanafi",
+  locale: "en",
+  theme: "dark",
+  notifications: false,
+  notifyMinutes: 10,
+};
+
+export const STORAGE_KEY = "miqat-prefs-v1";
